@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios  
 
-<a href="https://pedropierri.github.io/mini_projeto-cursoemvideo/android.html">Executar site<a>
+<a href="https://pedropierri.github.io/mini_projeto-cursoemvideo/android.html" target="_blank">Executar site<a>
